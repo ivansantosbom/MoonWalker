@@ -16,6 +16,11 @@ to build a software like this I spent many months of research and development, a
 
 #How to Use it ?
 
-Moonwalker.exe 80000:FFFFF 18ZMbwUFLMHoZBbfpCjUJQTCMCbktshgpe
+Moonwalker RANGE HASH160
 
-Just this !
+example: 
+Moonwalker.exe 80000:FFFFF 74b1e012be1521e5d8d75e745a26ced845ea3d37
+
+Actually this is Single GPU Version !
+
+Benchmarks are welcome !
