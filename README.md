@@ -16,10 +16,9 @@ to build a software like this I spent many months of research and development, a
 
 #How to Use it ?
 
-Moonwalker RANGE HASH160
-
 example: 
-Moonwalker.exe 80000:FFFFF 74b1e012be1521e5d8d75e745a26ced845ea3d37
+
+MoonWalk.exe -gpu --keyspace E000000000:EFFFFFFFFF 1EeAxcprB2PpCnr34VfZdFrkUWuxyiNEFv
 
 Actually this is Single GPU Version !
 
